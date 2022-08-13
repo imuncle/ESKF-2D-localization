@@ -18,7 +18,7 @@ make
 ./eskf_locate
 ```
 
-![ScreenShot](Screenshot.png)
+![ScreenShot](screenshot.png)
 
 * use mouse to drag the car (in left part view).
 * long press `Q` or `W` to rotate the car.
