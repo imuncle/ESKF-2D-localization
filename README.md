@@ -21,5 +21,5 @@ make
 ![ScreenShot](screenshot.png)
 
 * use mouse to drag the car (in left part view).
-* long press `Q` or `W` to rotate the car.
+* long press `Q` or `E` to rotate the car.
 * press `Esc` to exit.
